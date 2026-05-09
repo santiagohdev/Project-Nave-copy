@@ -4,7 +4,7 @@ A responsive frontend clone inspired by the Nave Negocios landing page.
 
 ## 🚀 Preview
 
-![App Screenshot](./images/Preview1.png)
+![App Screenshot](./images/Preview2.png)
 
 ## 🧠 About
 
@@ -28,7 +28,7 @@ The main focus was on creating a clean, responsive layout while maintaining visu
 - Adaptive design using media queries  
 
 
-![App Screenshot](./images/Preview2.png)
+![App Screenshot](./images/Preview1.png)
 
 ## 📐 Development Approach
 
